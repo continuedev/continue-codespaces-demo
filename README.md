@@ -1,8 +1,10 @@
 # Welcome to the Continue Codespaces Demo!
 
-Try asking for an edit to this README to see how Continue edits code directly in your editor.
+To test a few common recipes, open `calculator.py` and try the following:
 
-You can also check out these recipes for tasks that are common to many software developers.
+- `/comment` to write comments for the class
+- `/pytest` to write Pytest unit tests in a separate file
+- Ask in natural language for a new method
+- Try whatever you want, see how far you can push Continue :)
 
-- /pytest to write Pytest unit tests for the current file
-- 
+If you want to try a more complex recipe, type `/dlt` to create a [dlt data pipeline](https://dlthub.com/docs/intro).
