@@ -1,14 +1,22 @@
 # Welcome to the Continue Codespaces Demo!
 
+## Getting started
+
 To test a few common recipes, open `calculator.py` and try the following:
 
 - `/comment` to write comments for the class
 - `/pytest` to write Pytest unit tests in a separate file
 - Ask in natural language for a new method
-- Try whatever you want, see how far you can push Continue :)
+- Try whatever you want and see how far you can push Continue!
 
-If you want to try a more complex recipe, type `/dlt` to create a [dlt data pipeline](https://dlthub.com/docs/intro).
+## Going further
 
-If you're ready, you can download the VS Code extension.
+If you want to play with an even more complex recipe, type `/dlt` to create a data pipeline using [dlt](https://dlthub.com/docs/intro).
 
-If you have feedback, please [leave an issue](https://github.com/continuedev/continue/issues/new) or email us at hi@continue.dev.
+## Install Continue locally in VS Code
+
+If you would like to use Continue locally, you can follow [these steps](continue.dev/docs/install) to install it in VS Code.
+
+## Feedback
+
+Have thoughts about Continue? Please [leave an issue](https://github.com/continuedev/continue/issues/new) or email us at hi@continue.dev :)
