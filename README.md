@@ -15,7 +15,7 @@ If you want to play with an even more complex recipe, type `/dlt` to create a da
 
 ## Install Continue locally in VS Code
 
-If you would like to use Continue locally, you can follow [these steps](continue.dev/docs/install) to install it in VS Code.
+If you would like to use Continue locally, you can follow [these steps](https://continue.dev/docs/install) to install it in VS Code.
 
 ## Feedback
 
