@@ -8,7 +8,7 @@ You can use Continue to use and create recipes that automate the most repetitive
 
 After install is complete, the Continue extension will automatically open. You can also open it by pressing `cmd+shift+p` on Mac / `ctrl+shift+p` on Windows and then selecting `Continue: Open Continue GUI`
 
-To test a few common recipes, open a blank python file and try the following:
+To test a few common recipes, open the `calculator.py` file and try the following:
 
 - Ask "write a calculator class in python"
 - /comment to write comments for the class
