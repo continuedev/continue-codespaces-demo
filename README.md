@@ -1,21 +1,23 @@
-# Welcome to the Continue Codespaces Demo!
+# Continue
 
-## Getting started
+**[Continue](https://continue.dev/docs/) is the open-source library for accelerating software development with language models**
 
-To test a few common recipes, open `calculator.py` and try the following:
+You can use Continue to use and create recipes that automate the most repetitive sequences of tasks in your workflows.
 
-- `/comment` to write comments for the class
-- `/pytest` to write Pytest unit tests in a separate file
+## Getting Started
+
+After install is complete, the Continue extension should automatically open. You can also open it with `cmd+shift+p` on Mac / `ctrl+shift+p` on Windows and then selecting `Continue: Open Debug Panel`
+
+To test a few common recipes, open a blank python file and try the following:
+
+- Ask it to "write me a calculator class in python"
+- /comment to write comments for the class
+- /pytest to write Pytest unit tests in a separate file
 - Ask in natural language for a new method
-- Try whatever you want and see how far you can push Continue!
 
-## Going further
+Check out the [Catalog](https://continue.dev/docs/catalog) to see the full list of recipes
 
-If you want to play with an even more complex recipe, type `/dlt` to create a data pipeline using [dlt](https://dlthub.com/docs/intro).
-
-## Install Continue locally in VS Code
-
-If you would like to use Continue locally, you can follow [these steps](https://continue.dev/docs/install) to install it in VS Code.
+Give Continue a start on GitHub [here](https://github.com/continuedev/continue)
 
 ## Feedback
 
