@@ -2,13 +2,13 @@
 
 **[Continue](https://continue.dev/docs/) is the open-source library for accelerating software development with language models**
 
-You interleave Continue into the steps you take to understand and improve your code in order to get help from LLMs along the way
+Continue enables you to get help from LLMs directly in your IDE as you take steps to understand and improve your code.
 
 ## Getting Started
 
-After install is complete, the Continue extension will automatically open. You can also open it by pressing `cmd+shift+p` on Mac / `ctrl+shift+p` on Windows and then selecting `Continue: Open Continue GUI`
+After install is complete, a square on the left hand side will appear, which you can click to open Continue.
 
-To test a few common recipes, open the `calculator.py` file and try the following:
+To try out the core features, open the `calculator.py` file and try the following:
 
 - Type `/edit write a calculator class in python`
 - Highlight the class and type `/explain tell me why we are using a class here`
