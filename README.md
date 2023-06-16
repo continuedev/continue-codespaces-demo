@@ -6,7 +6,7 @@ Continue enables you to get help from LLMs directly in your IDE as you take step
 
 ## Getting Started
 
-After install is complete, a square on the left hand side will appear, which you can click to open Continue.
+After install is complete, a square icon on the left hand side will appear, which you can click to open Continue.
 
 To try out the core features, open the `calculator.py` file and try the following:
 
