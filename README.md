@@ -2,7 +2,7 @@
 
 **[Continue](https://continue.dev/docs/) is the open-source library for accelerating software development with language models**
 
-You can use Continue to use and create recipes that automate the most repetitive sequences of tasks in your workflows.
+You interleave Continue into the steps you take to understand and improve your code in order to get help from LLMs along the way
 
 ## Getting Started
 
@@ -10,10 +10,9 @@ After install is complete, the Continue extension will automatically open. You c
 
 To test a few common recipes, open the `calculator.py` file and try the following:
 
-- Ask "write a calculator class in python"
-- /comment to write comments for the class
-- /pytest to write Pytest unit tests in a separate file
-- Ask in natural language for a new method
+- Type `/edit write a calculator class in python`
+- Highlight the class and type `/explain tell me why we are using a class here`
+- Type `/comment` to write comments for the class
 
 Give Continue a star on GitHub [here](https://github.com/continuedev/continue)
 
